@@ -1,0 +1,1 @@
+Sample app for the tutorial on https://www.mschweighauser.com/plugin-interface-for-your-angular-app
